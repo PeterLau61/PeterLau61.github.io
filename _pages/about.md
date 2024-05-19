@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-Hi! I'm Yi Liu, a first-year Ph.D. student in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Qiang Xu](https://www.cse.cuhk.edu.hk/people/faculty/qiang-xu/). Before that I got my B.Eng. degree in Computer Science and Engineering from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans), supervised by Prof. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/home). I have also spent wonderful time at [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) as a research intern.
+Hi! I'm Yi Liu, a second-year Ph.D. student in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Qiang Xu](https://www.cse.cuhk.edu.hk/people/faculty/qiang-xu/). Before that I got my B.Eng. degree in Computer Science and Engineering from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans), supervised by Prof. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/home). I have also spent wonderful time at [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) as a research intern.
 
 My research interest is Adversarial Machine Learning. Specifically, my recent work focuses on improving the robustness of DNNs.
 
